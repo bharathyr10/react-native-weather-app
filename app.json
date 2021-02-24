@@ -28,6 +28,7 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": ""
+    "description": "Weather App developed with React Native. Access the current location of user and displays the current weather data.",
+    "githubUrl": "https://github.com/bharathyr10/react-native-weather-app"
   }
 }
